@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hi there, I'm Edward Santacruz 👋
-### Finance Automation Specialist | RPA & Analytics Engineer
-**Financial Mind by Training • Software Engineer by Impact**
+### Finance Automation Specialist | RPA & Financial Data Specialist
+**Financial Operations Mind • Python & RPA Automation Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edward-santacruz)
 [![GitHub Pages](https://img.shields.io/badge/Live_Dashboard-Tablero_CXC-004D98?style=for-the-badge&logo=githubpages&logoColor=white)](https://edwardsantacruz35-ui.github.io/tablero-cxc/)
@@ -10,9 +10,9 @@
 [![Location](https://img.shields.io/badge/Location-Caracas,_Venezuela-EDBB00?style=for-the-badge&logoColor=black)](#)
 
 <p align="center">
-  <b>TSU in Business Administration & Regional Credit/Collections Leader turned Finance Automation Engineer.</b><br>
-  I bridge the gap between corporate treasury, legacy ERPs, and modern software engineering.<br>
-  I understand P&L, balance sheets, DSO, and tax withholdings just as deeply as I understand Python algorithms, OpenCV vision, and ETL pipelines.
+  <b>TSU in Business Administration & Regional Credit/Collections Leader specialized in Finance Automation.</b><br>
+  I bridge the gap between corporate treasury, legacy ERPs, and modern automated workflows.<br>
+  I understand P&L, balance sheets, DSO, and tax withholdings just as deeply as I understand Python scripts, OpenCV vision bots, and ETL pipelines.
 </p>
 
 ---
@@ -21,12 +21,12 @@
 
 ## 💼 Professional Summary & The "Hybrid" Advantage
 
-Most software engineers don't understand debits, credits, accounting closures, withholding taxes (IVA/ISLR), or cash conversion cycles. Most finance managers don't write Python or automate workflows outside Excel.
+Most developers don't understand debits, credits, accounting closures, withholding taxes (IVA/ISLR), or cash conversion cycles. Most finance managers don't write Python or automate workflows outside Excel.
 
 **I live at the intersection of both:**
 - **5+ Years of Corporate & Regional Financial Operations:** Managed B2B credit & collections across **Venezuela, Colombia, and Guatemala**, consistently keeping debt recovery at **95%+** and reducing DSO down to **15 days**.
-- **Enterprise ERP Adoption & Modernization:** Hands-on architecture and migration experience across **Profit Plus ERP, Odoo, Siigo, and Galeón**, migrating brittle spreadsheet workflows into automated, centralized enterprise systems.
-- **Production RPA & Data Cleaning Pipelines:** Architect of custom computer-vision desktop bots, fuzzy-matching bank reconciliation engines, and real-time executive analytics dashboards.
+- **Enterprise ERP Adoption & Modernization:** Hands-on operations and migration experience across **Profit Plus ERP, Odoo, Siigo, and Galeón**, turning manual spreadsheet workflows into centralized, automated enterprise processes.
+- **Production RPA & Data Cleaning Pipelines:** Builder of custom computer-vision desktop bots, fuzzy-matching bank reconciliation scripts, and real-time executive analytics dashboards.
 
 ---
 
@@ -34,7 +34,7 @@ Most software engineers don't understand debits, credits, accounting closures, w
 
 <div align="center">
 
-| Metric | Business Achievement | Engineering / Methodology |
+| Metric | Business Achievement | Methodology & Tools |
 | :---: | :--- | :--- |
 | **95%** | **Sustained Recovery Rate** | Automated aging analysis & targeted B2B contact pipelines across regional operations. |
 | **15 Days** | **DSO Reduction** | Algorithmic customer payment scoring and automated WhatsApp / email reminder triggers. |
@@ -46,13 +46,13 @@ Most software engineers don't understand debits, credits, accounting closures, w
 
 ---
 
-## 🛠️ Tech Stack & Engineering Toolkit
+## 🛠️ Tech Stack & Automation Toolkit
 
 <div align="center">
 
 | Domain | Technologies & Systems |
 | :--- | :--- |
-| **Languages & Core** | ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | **RPA & Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-RPA-red?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 | **Financial ETL & Data Cleaning** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-Excel_ETL-217346?style=flat-square) ![FuzzyWuzzy](https://img.shields.io/badge/FuzzyMatching-Algorithms-orange?style=flat-square) ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) |
 | **Visualization & Web** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
@@ -89,23 +89,11 @@ Most software engineers don't understand debits, credits, accounting closures, w
   *Universidad Nacional Experimental de la Gran Caracas (UNEXCA)*
 - **HubSpot Academy Certified** (2023)  
   *Sales Software & Customer Relationship Management*
-- **Self-Directed Engineering:** Python for Finance, Computer Vision with OpenCV, Robotic Process Automation (RPA), Advanced SQL, and Modern Data Analytics.
+- **Continuous Learning & Specialization:** Python for Finance, Computer Vision with OpenCV, Robotic Process Automation (RPA), Advanced SQL, and Modern Data Analytics.
 
 ---
 
 <div align="center">
-
-## 📈 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwardsantacruz35-ui&show_icons=true&theme=tokyonight&hide_border=true&title_color=89b4fa&icon_color=a6e3a1&text_color=cdd6f4&bg_color=181825" alt="Edward's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsantacruz35-ui&layout=compact&theme=tokyonight&hide_border=true&title_color=89b4fa&text_color=cdd6f4&bg_color=181825" alt="Top Languages" />
-</p>
-
----
-
-### 💬 Let's Connect
-Looking to discuss financial automation, FinTech operations, or RPA architecture?  
-Let's connect on **[LinkedIn](https://linkedin.com/in/edward-santacruz)** or reach out via **[Email](mailto:edwardsantacruz35@gmail.com)**!
-
+  <b>Let's connect and build intelligent financial systems together!</b><br>
+  💼 <a href="https://linkedin.com/in/edward-santacruz">LinkedIn</a> • 📧 <a href="mailto:edwardsantacruz35@gmail.com">edwardsantacruz35@gmail.com</a>
 </div>
